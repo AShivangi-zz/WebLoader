@@ -1,0 +1,4 @@
+http://www.sjsu.edu/cs/
+https://cmpe.sjsu.edu/files/public/bsse.pdf
+http://info.sjsu.edu/web-dbgen/catalog/departments/CS.html
+http://info.sjsu.edu/web-dbgen/catalog/departments/CS-courses.html
